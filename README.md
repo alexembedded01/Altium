@@ -20,10 +20,10 @@ A collection of standardized Altium libraries and DRC rules collected over time.
     * Overlay
     * Solder
     * Paste
-    * **Assembly** on layers M5/M20
-    * **Courtyard** on layers M15/M21
-    * **3D Body** on layers M13/M23
-    * **Component Center** on layers M16/M24
+    * **Assembly** on layers M2/M3
+    * **Courtyard** on layers M4/M5
+    * **Component Center** on layers M6/M7
+    * **3D Body** on layers M8/M9
   * Mechanical Layers
     * **Mechanical 1** (used only for board cutouts)
 
