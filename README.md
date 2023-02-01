@@ -26,6 +26,7 @@ A collection of standardized Altium libraries and DRC rules collected over time.
     * **3D Body** on layers M8/M9
   * Mechanical Layers
     * **Mechanical 1** (used only for board cutouts)
+    * **Mechanical 13** (used only for mechanical notes)
 
 ### Layer Guidelines
 Assembly
